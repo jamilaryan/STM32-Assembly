@@ -1,11 +1,12 @@
 This was developed by Conestoga College, Embedded Systems Dev Program
 I will be making partial contributions over time
+Type the following on your terminal:
 
-\ngit clone https://github.com/jamilaryan/STM32-Assembly.git
+git clone https://github.com/jamilaryan/STM32-Assembly.git
 
-\nmake
+make
 
-\nmake program
+make program
 
-\nsudo minicom -D /dev/ttyACM0
+sudo minicom -D /dev/ttyACM0
 
