@@ -10,7 +10,6 @@
 extern void my_Loop( void );
 extern void my_Init( void );
 extern void my_Tick( void );
-extern void mytest(int);
 
 extern volatile uint32_t myTickCount;
 
